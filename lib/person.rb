@@ -7,3 +7,5 @@ class Person
    @job = job
  end
  
+ 
+ 
